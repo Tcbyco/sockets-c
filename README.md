@@ -1,2 +1,2 @@
 # sockets-c
-Sockets in C
+Implementing sockets in C.
